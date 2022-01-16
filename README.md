@@ -3,9 +3,11 @@
 - 🌱 I’m currently learning web development and machine learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-      Gmail: rubinbaidhya@gmail.com
+      Gmail: 
+      rubinbaidhya@gmail.com
       
-      Facebook: RooBEen Baidhya
+      Facebook: 
+      RooBEen Baidhya
 
 <!---
 roobeen-b/roobeen-b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
