@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @roobeen-b
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning web development and machine learning.
-- 💞️ I’m looking to collaborate on ...
+<!--- - 👀 I’m interested in ... --->
+- 🌱 I’m currently learning web development,mobile application development and machine learning.
+<!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me ...
 - 
       Gmail: 
